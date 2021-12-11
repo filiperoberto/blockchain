@@ -1,0 +1,23 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filiperoberto/blockchain.git"
+  },
+  "author": "Filipe Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filiperoberto/blockchain/issues"
+  },
+  "homepage": "https://github.com/filiperoberto/blockchain#readme",
+  "dependencies": {
+    "sha256": "^0.2.0"
+  }
+}
