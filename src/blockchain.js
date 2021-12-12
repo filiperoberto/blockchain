@@ -20,8 +20,6 @@ class Blockchain {
 
       this.index++
       this.blocks.push(block)
-
-      console.log(this.blocks)
    }
 
    isValid() {
